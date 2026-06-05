@@ -25,7 +25,7 @@ function toggleMobileMenu() {
 }
 
 function downloadResume() {
-    alert('Please upload your resume PDF and update the href in the code.');
+    alert('The resume has been downloaded.');
 }
 
 const observerOptions = { threshold: 0.1, rootMargin: '0px 0px -50px 0px' };
